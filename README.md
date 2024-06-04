@@ -5,8 +5,11 @@ A regex, which is short for regular expression, is a sequence of characters that
 
 ## Summary
 
+When working with HTML forms, it's beneficial to validate form input using regular expressions. Email validation, in particular, can be challenging due to the intricacies of the email specification. It's advisable to utilize built-in language or framework functions for email validation rather than creating your own solution. However, you can create a robust regular expression that effectively matches many common email formats using the concepts we've covered.
 
- When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string, or to find and replace a character or sequence of characters within a string. They are also frequently used to validate input.
+An important consideration is the use of plus addressing by many individuals for temporary purposes, such as "name+filter@gmail.com," which resolves to "name@gmail.com" but allows for filtering based on the additional information. Additionally, some domains consist of multiple components. For instance, registering a domain like "hellokitty.hk.com" enables emails in the format "ilove@hellokitty.hk.com," necessitating careful handling of the domain part during email matching.
+
+Below are examples of common emails. In this exercise, attempt to extract the name from the email, excluding any filters (characters after a plus sign) and the domain (characters after the @ symbol).
 
 For example, the following regular expression can be used to verify that user input is a valid email address:
 This is the regex code that will be broken apart: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
