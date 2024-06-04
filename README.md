@@ -14,7 +14,6 @@ Below are examples of common emails. In this exercise, attempt to extract the na
 For example, the following regular expression can be used to verify that user input is a valid email address:
 This is the regex code that will be broken apart: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
-
 ## Table of Contents
 
 - [Anchors](#anchors)
@@ -164,15 +163,35 @@ Look-behind is similar, but it looks behind. That is, it allows to match a patte
 
 These are not used in this example.
 
+## Example Images
+![](./images/90W7R.png)
+![](./images/YI6KR.png)
+![](./images/SrUwP.png)
+![](./images/Zight%202024-6-4%20at%203.13.37%20PM.png)
+![](./images/Zight%202024-6-4%20at%203.17.00%20PM.png)
+
 
 ## Author
 
-Written by Lora Lainio, if you like what i wrote please visit my GitHub profile [Here](https://github.com/L-Lainio)
+Written by Lora Lainio, if you like what i wrote please visit my GitHub profile
+
+## Contact Me
+- GitHub: [L-Lainio](https://github.com/L-Lainio/)
+- Email: arollainio@gmail.com
 
 ## Resources & Links
-![](https://regexone.com/problem/matching_emails)
-![](https://en.wikipedia.org/wiki/Email_address#Syntax)
 
+### Regexone
+https://regexone.com/problem/matching_emails
+
+### Wikipedia
+https://en.wikipedia.org/wiki/Email_address#Syntax
+
+### Stackoverflow
+https://stackoverflow.com/questions/201323/how-can-i-validate-an-email-address-using-a-regular-expression
+
+### Regular-Expression
+https://www.regular-expressions.info/index.html
 
 
 ❤
