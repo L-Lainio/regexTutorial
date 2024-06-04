@@ -169,4 +169,10 @@ These are not used in this example.
 
 Written by Lora Lainio, if you like what i wrote please visit my GitHub profile [Here](https://github.com/L-Lainio)
 
+## Resources & Links
+![](https://regexone.com/problem/matching_emails)
+![](https://en.wikipedia.org/wiki/Email_address#Syntax)
+
+
+
 ❤
