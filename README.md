@@ -173,7 +173,7 @@ These are not used in this example.
 
 ## Author
 
-Written by Lora Lainio, if you like what i wrote please visit my GitHub profile
+Written by Lora Lainio, if you like what you see and would like to colab contact me.
 
 ## Contact Me
 - GitHub: [L-Lainio](https://github.com/L-Lainio/)
