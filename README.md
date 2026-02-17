@@ -154,19 +154,6 @@ These are not used in this example.
 ![](./images/Zight%202024-6-4%20at%203.13.37%20PM.png)
 ![](./images/Zight%202024-6-4%20at%203.17.00%20PM.png)
 
-## License
-
-NOTICE: This application is covered under the MIT License
-
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-
-## Contact
-
-Have additional questions? Click the links below to reach me through my GitHub account or Email address.
-
-[Link to Github](https://github.com/L-Lainio)
-
-<a href="mailto:lora.lainio.it@gmail.com">lora.lainio.it@gmail.com</a>
 
 ## Resources & Links
 
@@ -181,6 +168,12 @@ https://stackoverflow.com/questions/201323/how-can-i-validate-an-email-address-u
 
 ### Regular-Expression
 https://www.regular-expressions.info/index.html
+
+## License
+
+NOTICE: This application is covered under the MIT License
+
+© 2026 abd Beyond
 
 
 ❤
